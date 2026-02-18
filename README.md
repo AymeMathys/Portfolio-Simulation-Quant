@@ -2,7 +2,7 @@
 
 ### Overview
 This Python-based financial tool simulates the evolution of a portfolio balance over a specific investment horizon. It is designed to evaluate whether a monthly withdrawal strategy is sustainable or leads to capital depletion, while accounting for real-world banking costs.
-My foucs was to learn to correctly manipulate the loop "for"
+My focus was to learn to correctly manipulate the loop "for"
 ### Key Features
 * **Compound Interest:** Calculates monthly growth based on a 0.8% yield (~10% annually).
 * **Management Fees:** Simulates a 1.2% annual fee applied to the current balance.
